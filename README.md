@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 
-<img 
+<!-- <img 
    src="https://github-readme-stats.vercel.app/api?username=srivarshan12&show_icons=true&theme=tokyonight" 
 />
+ -->
